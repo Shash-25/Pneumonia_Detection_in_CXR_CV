@@ -18,6 +18,6 @@ The processed dataset from this competition used in this project could be found 
 The project is divided into 5 notebooks,<br>
 a) <b>EDA</b> - to do basic analysis of the dataset, display differnet CXRs and divide dataset for training and testing<br>
 b) <b>CNN Model Training</b> - for training different CNN models from scratch to detect pneumonia<br>
-c) <b>Transfer Learning</b> - to use already trained models like ResNet50, InceptionV3, MobileNet and ResNet152 to detect pneumonia<br>
+c) <b>Transfer Learning</b> - to finetune trained models like ResNet50, InceptionV3, MobileNet and ResNet152 to detect pneumonia<br>
 d) <b>Model Performance Analysis</b> - to compare performance of all the trained models in one place and choose the best model for testing<br>
 e) <b>Calibration and Model Testing</b> - to calibrate prediction threshold of the best model and get its performance on the test set
