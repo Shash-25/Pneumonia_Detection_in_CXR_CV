@@ -20,4 +20,4 @@ a) <b>EDA</b> - to do basic analysis of the dataset, display differnet CXRs and 
 b) <b>CNN Model Training</b> - for training different CNN models from scratch to detect pneumonia<br>
 c) <b>Transfer Learning</b> - to use already trained models like ResNet50, InceptionV3, MobileNet and ResNet152 to detect pneumonia<br>
 d) <b>Model Performance Analysis</b> - to compare performance of all the trained models in one place and choose the best model for testing<br>
-e) <b>Caliberation and Model Testing</b> - to caliberate prediction threshold of the best model and get its performance on the test set
+e) <b>Calibration and Model Testing</b> - to calibrate prediction threshold of the best model and get its performance on the test set
